@@ -1,6 +1,6 @@
 # Runpoon
 
-A nvim run helper based on the (Harpoon2)[https://github.com/ThePrimeagen/harpoon] of thePrimeagen.
+A nvim run helper based on the [Harpoon](https://github.com/ThePrimeagen/harpoon) of thePrimeagen.
 
 # Mapping example
 
