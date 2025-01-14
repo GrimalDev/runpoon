@@ -28,6 +28,7 @@ M.commands = {
 		"MarkdownPreview",
 	},
 	php = "lua require('nvterm.terminal').send('php %', 'horizontal')",
+	go = "lua require('nvterm.terminal').send('go run %', 'horizontal')",
 }
 
 return M
